@@ -1,0 +1,7 @@
+2023-04-28 18:23:28,722 INFO com.moodys.mis.pfg.dsp.MisPfgPdspServiceApplication [main] Starting MisPfgPdspServiceApplication on BLR1-LHP-N80803 with PID 25128 (C:\Users\Ashutosh.k.shukla\Documents\Project\mis-pfg-pdsp-service\target\classes started by ashutosh.k.shukla in C:\Users\Ashutosh.k.shukla\Documents\Project\mis-pfg-pdsp-service)
+2023-04-28 18:23:28,724 DEBUG com.moodys.mis.pfg.dsp.MisPfgPdspServiceApplication [main] Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2023-04-28 18:23:28,725 INFO com.moodys.mis.pfg.dsp.MisPfgPdspServiceApplication [main] No active profile set, falling back to default profiles: default
+2023-04-28 18:23:29,844 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-04-28 18:23:29,845 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.30]
+2023-04-28 18:23:29,924 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/pfg-datasharing] [main] Initializing Spring embedded WebApplicationContext
+2023-04-28 18:23:30,326 INFO com.moodys.mis.pfg.dsp.MisPfgPdspServiceApplication [main] Started MisPfgPdspServiceApplication in 2.242 seconds (JVM running for 2.609)
